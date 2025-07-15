@@ -6,7 +6,6 @@ This repository contains the hardware design files for the **SENSEI Debug Board*
 
 The **SENSEI Debug Board** simplifies the development process, facilitating flashing, debugging, and testing hardware designed around the SENSEI Base Board and its extension shields. Both the base board and any additional shield boards can be directly connected.
 
-![Block Diagram](Documentation/block_diagram.png)
 
 ### Key Features
 - **Integrated Debug Interfaces**
