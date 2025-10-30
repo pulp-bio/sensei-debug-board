@@ -1,0 +1,14 @@
+Record=DiagramHierarchy|SourceDocument=Debug_PCB_multiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=B2|Source=Sensei_Debug_PCB.PrjPcb
+Record=SubProject|SourceDocument=Debug_PCB_multiBoard.MbsDoc|ProjectPath=Sensei_Debug_PCB.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Debug_PCB_multiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=B1|Source=..\..\sensei-sensor-shield\Hardware\UT_baseBoard\Hardware\01_Mainboard\01_Mainboard.PrjPcb
+Record=SubProject|SourceDocument=Debug_PCB_multiBoard.MbsDoc|ProjectPath=..\..\sensei-sensor-shield\Hardware\UT_baseBoard\Hardware\01_Mainboard\01_Mainboard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Debug_PCB_multiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=B3|Source=..\..\sensei-sensor-shield\Hardware\UT_sensorNode\UT_sensorNode.PrjPcb
+Record=SubProject|SourceDocument=Debug_PCB_multiBoard.MbsDoc|ProjectPath=..\..\sensei-sensor-shield\Hardware\UT_sensorNode\UT_sensorNode.PrjPcb
+Record=DiagramHierarchy|SourceDocument=Debug_PCB_multiBoard.MbsDoc|Kind=Multi-board Schematic Module|Designator=B4|Source=..\..\sensei-template-shield\Hardware\UT_shieldTemplate\UT_shieldTemplate.PrjPcb
+Record=SubProject|SourceDocument=Debug_PCB_multiBoard.MbsDoc|ProjectPath=..\..\sensei-template-shield\Hardware\UT_shieldTemplate\UT_shieldTemplate.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI_Debug-Board_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M1|Source=..\SENSEI_Base-Board\Hardware\SENSEI_Base-Board\SENSEI_Base-Board.PrjPcb
+Record=SubProject|SourceDocument=SENSEI_Debug-Board_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Base-Board\Hardware\SENSEI_Base-Board\SENSEI_Base-Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI_Debug-Board_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M2|Source=..\SENSEI_Debug-Board\SENSEI_Debug-Board.PrjPcb
+Record=SubProject|SourceDocument=SENSEI_Debug-Board_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Debug-Board\SENSEI_Debug-Board.PrjPcb
+Record=DiagramHierarchy|SourceDocument=SENSEI_Debug-Board_Multiboard.MbsDoc|Kind=Multi-board Schematic Module|Designator=M3|Source=..\SENSEI_Template-Shield\Hardware\SENSEI_Template_Shield.PrjPcb
+Record=SubProject|SourceDocument=SENSEI_Debug-Board_Multiboard.MbsDoc|ProjectPath=..\SENSEI_Template-Shield\Hardware\SENSEI_Template_Shield.PrjPcb

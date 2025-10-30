@@ -6,6 +6,7 @@ This repository contains the hardware design files for the **SENSEI Debug Board*
 
 The **SENSEI Debug Board** simplifies the development process, facilitating flashing, debugging, and testing hardware designed around the SENSEI Base Board and its extension shields. Both the base board and any additional shield boards can be directly connected.
 
+![Altium Screenshot](Documentation/DebugBoard.png)
 
 ### Key Features
 - **Integrated Debug Interfaces**
@@ -14,6 +15,9 @@ The **SENSEI Debug Board** simplifies the development process, facilitating flas
   - Pin headers provide direct access to all signals and power rails on the board-to-board connectors.
 - **User-Friendly Interface**
   - Onboard LEDs and buttons for system status indication and interaction during development and debugging.
+
+## Important Notes
+- For SENSEI Base Board v1.0, ensure that the GAP9 is connected to the SPI bus (controlled by nRF) to use the JTAG programming header on the Debug Board. Alternatively, the JTAG header on the break-off part of the Base Board can be used.
 
 ## Changelog
 A changelog is available in the [Changelog.md](Changelog.md) file, which tracks all major updates and revisions to the board's design and documentation.
