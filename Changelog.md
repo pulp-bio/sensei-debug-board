@@ -4,6 +4,7 @@
 - Added reset buttons
 - Changed header for jumpers
 - Added note about SENSEI Base Board v1.0 to enable programming
+- Added mounting holes for Base Board
 
 ## Version 1.0 (03.07.2025)
 - Inital version
